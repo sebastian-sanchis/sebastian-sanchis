@@ -1,46 +1,43 @@
-<h2> Hi there, I'm Sebastian Sanchis! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU0YWM3NTNiYjljMzMwNmQwOGJkYzUyNTc1YjlkZWI1NmEyMjY4YyZjdD1z/FG4Cn9gEhd01GlD3i9/giphy.gif" width="230">
-<p><em>Frontend Developer specializing in building responsive, user-friendly websites and applications that deliver a seamless user experience.</em></p>
+<h1 align="center">👋 Hi, I’m Sebastian</h1>
 
-[![Linkedin: sebastian-sanchis](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-sanchis/)](https://www.linkedin.com/in/sebastian-sanchis/)
-[![GitHub seba-sanchis](https://img.shields.io/github/followers/seba-sanchis?label=follow&style=social)](https://github.com/seba-sanchis)
-
-### A little more about me...  
-
-```javascript
-const seba = {
-  pronouns: "he" | "him",
-  code: ["CSS", "HTML", "Javascript", "Typescript"],
-  tools: {
-    frontend: {
-      cssFramework: "Tailwind CSS",
-      cssPreprocessor: "Sass",
-      javascriptFrameworks: ["Angular", "NextJS", "React", "React Native"],
-      reactUIFramework: "Material UI",
-      reactPackages: ["Axios", "React Router", "styled-components"],
-      stateManagement: "Redux",
-    },
-    backend: {
-      javascriptFramework: {
-        Node: "Express",
-      },
-      databases: {
-        SQL: {
-          DBMS: "PostgreSQL",
-          ORM: "Sequelize",
-        },
-        NoSQL: {
-          DBMS: "MongoDB",
-          ODM: "Mongoose",
-        },
-      },
-      htmlTemplatingEngine: "EJS",
-      cloudComputing: ["AWS", "Google Cloud"],
-    },
-    testing: "Jest",
-  },
-};
-
-```
+<p align="center">
+💻 <b>Software Developer | [AI | Full-Stack | Mobile | Web]</b><br/>
+Passionate about building scalable applications, solving real-world problems with code, and continuously learning new technologies.
+</p>
 
 ---
+
+## 🚀 About Me
+- 🔭 Currently working at **OneSeven Tech** as a Software Developer  
+- 🌱 Currently preparing for the **AWS AI Practitioner** certification  
+
+---
+
+## 🏅 Certifications  
+- 🎓 AWS Cloud Practitioner
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=css,html,js,ts" />
+
+**Frameworks & Tools:**  
+<img src="https://skillicons.dev/icons?i=graphql,jest,mysql,nest,next,nodejs,postgres,postman,react,tailwind" />
+
+**Cloud & DevOps:**  
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sebastian-sanchis&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-sanchis&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+<p align="center"><i>✨ +4 years building pixel-perfect, accessible products for the web and beyond. ✨</i></p>
