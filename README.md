@@ -9,7 +9,7 @@ Passionate about building scalable applications, solving real-world problems wit
 
 ## 🚀 About Me
 - 🔭 Currently working at **OneSeven Tech** as a Software Developer  
-- 🌱 Currently preparing for the **AWS AI Practitioner** certification  
+- 🌱 Currently preparing for the **AWS Solutions Architect** certification  
 
 ---
 
